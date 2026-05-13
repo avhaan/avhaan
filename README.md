@@ -22,11 +22,11 @@ Currently developing full-stack apps with React, FastAPI, and MongoDB through [A
 
 | Project | What it does | Stack |
 |---|---|---|
-| [AUBI](https://www.youtube.com/watch?v=GEjsph5X5Yc&t=115s) | Agentic AI coworker — routes GitHub issues to the right dev, generates patches, opens PRs in ~90s | LangGraph · LangChain · Qdrant · FastAPI · Next.js |
-| [VitalViewAI](https://github.com/avhaan/VitalViewAi) | Converts medical reports into visual health dashboards + voice assistant | TypeScript · Gemini API · ElevenLabs · Google Maps |
-| [Pulse]([https://devpost.com](https://devpost.com/software/pulse-uq0d32)) | Fintech platform translating live market signals into plain-English insights via Gemini AI | Next.js · Python · PostgreSQL · Gemini API |
-| [Aidex](https://devpost.com/software/aidex-cahqlo) | Escrow-based donation platform — funds release only on verified milestones | TypeScript · Python · FastAPI |
-| [SkillSwap](https://github.com/avhaan/SkillSwap-ADC-Bootcamp) | Peer skill-exchange platform built through App Dev Club UMD bootcamp | JavaScript · Python · CSS |
+| [🤖 AUBI](https://www.youtube.com/watch?v=GEjsph5X5Yc&t=115s) · [repo](https://github.com/avhaan/avhaan) | Won **Best Developer Productivity** @ GDSC HackDay. Each developer gets a persistent AI coworker that learns their code ownership and expertise from GitHub activity, then autonomously routes issues, writes patches, and opens PRs through a human approval gate in ~90s | LangGraph · LangChain · Qdrant · FastAPI · Next.js |
+| [🏥 VitalViewAI](https://devpost.com/software/legalflow-s7dz1b) · [repo](https://github.com/avhaan/VitalViewAi) | Won **Best UI/UX** @ Technica 2025 (121 projects). Converts medical reports into visual health dashboards with a voice assistant and geolocation-based hospital recommendations | TypeScript · Gemini API · ElevenLabs · Google Maps |
+| [📈 Pulse](https://devpost.com/software/pulse-uq0d32) · [repo](https://github.com/yash200611/Pulse) | Fintech platform translating live market signals (Finnhub, FRED) and global news into personalized plain-English financial insights via Gemini AI | Next.js · Python · PostgreSQL · Gemini API |
+| [💸 Aidex](https://devpost.com/software/aidex-cahqlo) · [repo](https://github.com/yash200611/Aidex) | Escrow-based donation platform where funds release only on verified milestones — with role-based NGO/donor dashboards and automatic refund logic on failure | TypeScript · Python · FastAPI |
+| [🔁 SkillSwap](https://github.com/avhaan/SkillSwap-ADC-Bootcamp) | Peer skill-exchange platform built through App Dev Club UMD bootcamp | JavaScript · Python · CSS |
 
 ---
 
@@ -55,16 +55,16 @@ Currently developing full-stack apps with React, FastAPI, and MongoDB through [A
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avhaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avhaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=avhaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avhaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=avhaan&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=avhaan&theme=tokyonight&hide_border=true&cache_seconds=1800" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avhaan&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avhaan&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" width="100%"/>
 </p>
 
 ---

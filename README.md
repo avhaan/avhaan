@@ -22,36 +22,74 @@ Currently developing full-stack apps with React, FastAPI, and MongoDB through [A
 
 | Project | What it does | Stack |
 |---|---|---|
-| [AUBI](https://devpost.com) | Agentic AI coworker — routes GitHub issues to the right dev, generates patches, opens PRs in ~90s | LangGraph · LangChain · Qdrant · FastAPI · Next.js |
+| [AUBI](https://www.youtube.com/watch?v=GEjsph5X5Yc&t=115s) | Agentic AI coworker — routes GitHub issues to the right dev, generates patches, opens PRs in ~90s | LangGraph · LangChain · Qdrant · FastAPI · Next.js |
 | [VitalViewAI](https://github.com/avhaan/VitalViewAi) | Converts medical reports into visual health dashboards + voice assistant | TypeScript · Gemini API · ElevenLabs · Google Maps |
-| [Pulse](https://devpost.com) | Fintech platform translating live market signals into plain-English insights via Gemini AI | Next.js · Python · PostgreSQL · Gemini API |
-| [Aidex](https://github.com/yash200611/Aidex) | Escrow-based donation platform — funds release only on verified milestones | TypeScript · Python · FastAPI |
+| [Pulse]([https://devpost.com](https://devpost.com/software/pulse-uq0d32)) | Fintech platform translating live market signals into plain-English insights via Gemini AI | Next.js · Python · PostgreSQL · Gemini API |
+| [Aidex](https://devpost.com/software/aidex-cahqlo) | Escrow-based donation platform — funds release only on verified milestones | TypeScript · Python · FastAPI |
 | [SkillSwap](https://github.com/avhaan/SkillSwap-ADC-Bootcamp) | Peer skill-exchange platform built through App Dev Club UMD bootcamp | JavaScript · Python · CSS |
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** Python · TypeScript · JavaScript · Java · C++ · SQL  
-**AI/ML:** LangGraph · LangChain · Qdrant · Gemini API · OpenAI API · AWS Lex · LLMs · NLP  
-**Web & Infra:** React · Next.js · FastAPI · PostgreSQL · MongoDB · Redis · Docker · AWS · Vercel  
-**AI Dev Tools:** Claude Code · Cursor · Windsurf · GitHub Copilot · Gemini CLI
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=avhaan&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avhaan&layout=compact&hide_border=true&theme=default" height="160"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avhaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avhaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=avhaan&hide_border=true&theme=default)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=avhaan&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avhaan&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avhaan/avhaan/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avhaan/avhaan/output/github-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/avhaan/avhaan/output/github-snake.svg"/>
+</picture>
+
 
 ---
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avhaan--narang-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/avhaan-narang)
-[![Email](https://img.shields.io/badge/Email-avhaan26@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:avhaan26@gmail.com)
-[![Research](https://img.shields.io/badge/Published-STM%20Journals-2E7D32?style=flat&logo=googlescholar&logoColor=white)](https://stmjournals.com)
+<p align="left">
+  <a href="https://linkedin.com/in/avhaan-narang"><img src="https://img.shields.io/badge/LinkedIn-avhaan--narang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:avhaan26@gmail.com"><img src="https://img.shields.io/badge/Email-avhaan26@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://stmjournals.com"><img src="https://img.shields.io/badge/Published-STM%20Journals-2E7D32?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avhaan&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
